@@ -12,5 +12,13 @@
 			<li>User views comments and either adds to them, or rates the comment up and down.</li>
 		</ul>
 		<h2>Entities: The image itself, the user profile, score, and the comments about it. </h2>
+
+		<ul>
+			<li>Image
+			<ul>comments
+			<ul>upvote/downvote score</ul>
+			</ul>
+			</li>
+		</ul>
 	</body>
 </html>
