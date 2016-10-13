@@ -48,6 +48,6 @@
 					<li>profileScore</li>
 				</ul>
 		</ul>
-<img src="svg/erd.svg" alt="Entity Relationship Diagram">
+<img src="svg/erd3.svg" alt="Entity Relationship Diagram">
 	</body>
 </html>
