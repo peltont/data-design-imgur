@@ -6,11 +6,11 @@
 		</title>
 	</head>
 	<body>
-		<h2>Persona: Name: Joe Smith<br>
+		<h4>Persona: Name: Joe Smith<br>
 			Age: 19<br>
 			Occupation: College student<br>
-			Uses the site during free time and boring lectures to ease boredom. Should be accessable by both laptops/PCs and mobile devices like phones and tablets. </h2>
-		<h2>Use case: Primarily used for easing boredom and easy shallow entertainment. User looking for entertainment can log in, browse for images that interest them, and comment/discuss/ or upvote/downvote the image. Or alternatively submit content for these things to happen to their own pictures. </h2>
+			Uses the site during free time and boring lectures to ease boredom. Should be accessable by both laptops/PCs and mobile devices like phones and tablets. </h4>
+		<h4>Use case: Primarily used for easing boredom and easy shallow entertainment. User looking for entertainment can log in, browse for images that interest them, and comment/discuss/ or upvote/downvote the image. Or alternatively submit content for these things to happen to their own pictures. </h4>
 		<ul>
 			<li>User sees an photo that interests them</li>
 			<li>User views comments and either adds to them, or rates the comment up and down.</li>
