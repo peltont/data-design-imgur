@@ -16,7 +16,12 @@
 		</ul>
 		<h2>Entities: The image itself, the user profile, score, and the comments about it. </h2>
 		<h2>Relationships:
-		One user can upload an image or album. Many users can comment and vote. </h2>
+			<ul>
+				<li>One user can upload an image or album.</li>
+				<li>Many users can comment and vote.</li>
+				<li>One comment can be replied to many times by many users.</li>
+			</ul>
+		</h2>
 		<ul>
 			<li>Image
 			<ul>comments
