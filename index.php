@@ -22,7 +22,8 @@
 				<li>One comment can be replied to many times by many users.</li>
 			</ul>
 		</h2>
-		<ul>Entities
+		<p>Entities</p>
+		<ul>
 			<li>The image</li>
 			<ul>
 				<li>imageID</li>
