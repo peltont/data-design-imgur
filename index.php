@@ -6,6 +6,7 @@
 		</title>
 	</head>
 	<body>
+		<h1 class="center">Data Design Project</h1>
 		<h4>Persona: Name: Joe Smith<br>
 			Age: 19<br>
 			Occupation: College student<br>
