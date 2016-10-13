@@ -30,13 +30,18 @@
 			</li>
 		</ul>
 		<ul>Entities
-		<li>The image</li>
-			<li>Comments
+			<li>The image</li>
+			<ul>
+				<li>imageID</li>
+				<li>imageScore</li>
+				<li>imageProfileID</li>
+				<li>imageDateTime</li>
+			</ul>
+			<li>Vote
 				<ul>
-					<li>Score (upvote/downvote)</li>
-					<li>commentID</li>
-					<li>commentDateTime</li>
-					<li>commenterID</li>
+					<li>voteID</li>
+					<li>voteDateTime</li>
+					<li>voteProfileID</li>
 				</ul>
 			</li>
 		</ul>
