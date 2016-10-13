@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
 		<meta charset="UTF-8">
 		<title>Data Design for Imgur
 		</title>
