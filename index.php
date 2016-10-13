@@ -15,14 +15,14 @@
 			<li>User sees an photo that interests them</li>
 			<li>User views comments and either adds to them, or rates the comment up and down.</li>
 		</ul>
-		<h2>Entities: The image itself, the user profile, score, and the comments about it. </h2>
-		<h2>Relationships:
+		<h4>Entities: The image itself, the user profile, and score.</h4>
+		<h4>Relationships:
 			<ul>
 				<li>One user can upload an image or album.</li>
 				<li>Many users can comment and vote.</li>
 				<li>One comment can be replied to many times by many users.</li>
 			</ul>
-		</h2>
+		</h4>
 		<p>Entities</p>
 		<ul>
 			<li>The image</li>
