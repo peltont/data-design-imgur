@@ -15,7 +15,8 @@
 			<li>User views comments and either adds to them, or rates the comment up and down.</li>
 		</ul>
 		<h2>Entities: The image itself, the user profile, score, and the comments about it. </h2>
-
+		<h2>Relationships:
+		One user can upload an image or album. Many users can comment and vote. </h2>
 		<ul>
 			<li>Image
 			<ul>comments
@@ -25,6 +26,14 @@
 		</ul>
 		<ul>Entities
 		<li>The image</li>
-		<li>Comments<li>Score (upvote/downvote)</li></ul>
+			<li>Comments
+				<ul>
+					<li>Score (upvote/downvote)</li>
+					<li>commentID</li>
+					<li>commentDateTime</li>
+					<li>commenterID</li>
+				</ul>
+			</li>
+		</ul>
 	</body>
 </html>
