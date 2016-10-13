@@ -22,19 +22,12 @@
 				<li>One comment can be replied to many times by many users.</li>
 			</ul>
 		</h2>
-		<ul>
-			<li>Image
-			<ul>comments
-			<ul>upvote/downvote score</ul>
-			</ul>
-			</li>
-		</ul>
 		<ul>Entities
 			<li>The image</li>
 			<ul>
 				<li>imageID</li>
 				<li>imageScore</li>
-				<li>imageProfileID</li>
+				<li>imagePosterID</li>
 				<li>imageDateTime</li>
 			</ul>
 			<li>Vote
@@ -44,6 +37,12 @@
 					<li>voteProfileID</li>
 				</ul>
 			</li>
+			<li>Profile</li>
+				<ul>
+					<li>profileID</li>
+					<li>profileDateTime</li>
+					<li>profileScore</li>
+				</ul>
 		</ul>
 	</body>
 </html>
