@@ -13,7 +13,9 @@
 			Occupation: College student</h4>
 		<h4>Technology: Above average technological literacy. As powerful of a computer as their budget would allow.</h4>
 		<h4>Goals: Primarily used for easing boredom during boring lectures, and misc down time. User just wants easy and cheap entertainment that is highly convenient and accessable at the touch of a button. Joe wants to be able to within a few seconds be searching for entertainment. </h4>
-		<ul>Use Case:
+		<h4>Use Case:
+		</h4>
+		<ul>
 			<li>User has free time and need something to do, so travels to site.</li>
 			<li>User sees an photo that interests them</li>
 			<li>User views comments and either adds to them, or rates the photo or comment up and down.</li>
