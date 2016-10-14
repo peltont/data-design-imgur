@@ -21,6 +21,7 @@
 			<li>User views comments and either adds to them, or rates the photo or comment up and down.</li>
 			<li>Continues to next photo.</li>
 		</ul>
+		<h4>Use Case: Bored in class, Joe desires something to occupy his time while the teacher reviews things he already knows. He needs entertainment that is free, and easily accessable from his laptop or phone, so he navigates to imgur.</h4>
 		<h4>Entities: The image itself, the user profile, and score.</h4>
 		<h4>Relationships:
 			<ul>
