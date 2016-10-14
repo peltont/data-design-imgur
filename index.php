@@ -41,7 +41,7 @@
 			</ul>
 			<li>Vote
 				<ul>
-					<li>voteID</li>
+					<li>voteImageID</li>
 					<li>voteDateTime</li>
 					<li>voteProfileID</li>
 				</ul>
@@ -53,6 +53,6 @@
 					<li>profileScore</li>
 				</ul>
 		</ul>
-<img src="svg/erd3.svg" alt="Entity Relationship Diagram">
+<img src="svg/erd4.svg" alt="Entity Relationship Diagram">
 	</body>
 </html>
